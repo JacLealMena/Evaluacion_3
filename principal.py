@@ -4,8 +4,8 @@ limpiar()
 
 while True:
     opc = menu()
-    if opc == 1:
-        pass
+    if opc ==1:
+        registrar_pedido()
     elif opc ==2:
         pass
     elif opc ==3:
